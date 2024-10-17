@@ -1,4 +1,4 @@
-module gohfinder
+module github.com/tr3ss/gohfinder
 
 go 1.23.1
 
